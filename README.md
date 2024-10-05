@@ -11,5 +11,6 @@ https://github.com/netology-code/ter-homeworks/blob/main/02/hw-02.md
 preemptible = true позволяет создать прерываемую ВМ  
 core_fraction = 5 позволяет создать ВМ с гарантированным уровнем производительности 5 % от максимального  
 Оба этих свойства позволят экономить ресурсы = деньги  
-
+## Задание2
+Код, получившися после выполнения второго задания https://github.com/pkostua/tf-hw02/tree/master/task2
 
