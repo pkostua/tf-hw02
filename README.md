@@ -23,7 +23,7 @@ https://github.com/pkostua/tf-hw02/tree/master/task03
 ## Задание 5
 Код, получившися после выполнения пятого https://github.com/pkostua/tf-hw02/tree/master/task05
 ## Задание 6
-Финальный код, получившися после выполнения шестой https://github.com/pkostua/tf-hw02/tree/master/task06
+Финальный код, получившися после выполнения шестого https://github.com/pkostua/tf-hw02/tree/master/task06
 ## Задание 7
 Напишите, какой командой можно отобразить второй элемент списка test_list.  
 ```
