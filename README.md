@@ -24,3 +24,22 @@ https://github.com/pkostua/tf-hw02/tree/master/task03
 Код, получившися после выполнения пятого https://github.com/pkostua/tf-hw02/tree/master/task05
 ## Задание 6
 Финальный код, получившися после выполнения шестой https://github.com/pkostua/tf-hw02/tree/master/task06
+## Задание 7
+Напишите, какой командой можно отобразить второй элемент списка test_list.  
+```
+> local.test_list[1]
+"staging"
+```
+Найдите длину списка test_list с помощью функции length(<имя переменной>).  
+```
+> length(local.test_list)
+3
+```
+Напишите, какой командой можно отобразить значение ключа admin из map test_map.  
+```
+> local.test_map["admin"]
+"John"
+```
+Напишите interpolation-выражение, результатом которого будет: "John is admin for production server based on OS ubuntu-20-04 with X vcpu, Y ram and Z virtual disks", используйте данные из переменных test_list, test_map, servers и функцию length() для подстановки значений.
+> "${local.test_map[keys(local.test_map)[0]]} is ${keys(local.test_map)[0]} for ${keys(local.servers)[1]} server based on ${local.servers[keys(local.servers)[1]].image} with ${local.servers[keys(local.servers)[1]].cpu} vcpu, ${local.servers[keys(local.servers)[1]].ram} ram and ${length(local.servers[keys(local.servers)[1]].disks)} virtual disks"
+"John is admin for production server based on ubuntu-20-04 with 10 vcpu, 40 ram and 4 virtual disks"
