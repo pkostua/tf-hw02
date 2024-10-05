@@ -12,7 +12,7 @@ preemptible = true позволяет создать прерываемую ВМ
 core_fraction = 5 позволяет создать ВМ с гарантированным уровнем производительности 5 % от максимального  
 Оба этих свойства позволят экономить ресурсы = деньги  
 ## Задание2
-Код, получившися после выполнения второго задания https://github.com/pkostua/tf-hw02/tree/master/task2
+Код, получившися после выполнения второго задания [https://github.com/pkostua/tf-hw02/tree/master/task2](https://github.com/pkostua/tf-hw02/tree/master/task02)
 ## Задание3
 Код, получившися после выполнения третьего задания
 https://github.com/pkostua/tf-hw02/tree/master/task03
