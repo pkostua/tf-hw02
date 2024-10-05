@@ -17,6 +17,6 @@ core_fraction = 5 позволяет создать ВМ с гарантиров
 Код, получившися после выполнения третьего задания
 https://github.com/pkostua/tf-hw02/tree/master/task03
 ## Задание 4
-Код четвоертой задачи https://github.com/pkostua/tf-hw02/tree/master/task04
+Код четвертой задачи https://github.com/pkostua/tf-hw02/tree/master/task04
 ### Terraform outputs
 ![image](https://github.com/user-attachments/assets/83aa6c96-bd11-4d2e-b9f5-a14def0096c5)
