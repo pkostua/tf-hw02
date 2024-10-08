@@ -19,7 +19,8 @@ https://github.com/pkostua/tf-hw02/tree/master/task03
 ## Задание 4
 Код четвертой задачи https://github.com/pkostua/tf-hw02/tree/master/task04
 ### Terraform outputs
-![image](https://github.com/user-attachments/assets/83aa6c96-bd11-4d2e-b9f5-a14def0096c5)
+![image](https://github.com/user-attachments/assets/5cdf644b-1fa1-4f83-ab38-40f5496284e8)
+
 ## Задание 5
 Код, получившися после выполнения пятого https://github.com/pkostua/tf-hw02/tree/master/task05
 ## Задание 6
